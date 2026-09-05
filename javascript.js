@@ -26,6 +26,18 @@ const moradores = [
         bloco: "A",
         codigo: "9228"
     },
+	    {
+        nome: "Inês Isoldi",
+        apartamento: "71",
+        bloco: "A",
+        codigo: "1852"
+    },
+	    {
+        nome: "Margarida",
+        apartamento: "71",
+        bloco: "A",
+        codigo: "2213"
+    },
     {
         nome: "Cristiano Cecatto",
         apartamento: "81",

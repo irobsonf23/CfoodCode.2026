@@ -131,7 +131,7 @@ const moradores = [
         nome: "Rodrigo Gil",
         apartamento: "12B",
         bloco: "B",
-        codigo: "6284/1960/0892/9961"
+        codigo: "6284 // 1960 // 0892 //9961"
         },
 	    {
         nome: "Leticia",
@@ -211,7 +211,7 @@ const moradores = [
         nome: "Michela",
         apartamento: "53",
         bloco: "B",
-        codigo: "8331"
+        codigo: "8331 // 8150"
         },
 			    {
         nome: "Ayako",

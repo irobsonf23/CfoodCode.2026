@@ -145,19 +145,9 @@ const moradores = [
         bloco: "B",
         codigo: "Rappi 101"
         },
-				    {
-        nome: "Melina",
-        apartamento: "23",
-        bloco: "B",
-        codigo: "8889"
-        },
-					    {
-        nome: "João Marcelo",
-        apartamento: "23",
-        bloco: "B",
-        codigo: "Rappi 101"
-        },
-					    {
+	
+	
+		{
         nome: "Gabriel Padilha",
         apartamento: "32",
         bloco: "B",

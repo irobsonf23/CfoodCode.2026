@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>CifoodCode</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="app">
+
+        <header class="topo">
+            <div class="marca">
+                <div class="icone-marca">⌂</div>
+
+                <div>
+                    <h1>Busca Fácil</h1>
+                    <span>Ifood por apartamento ou Código</span>
+                </div>
+            </div>
+
+            <div class="status">
+                <span class="bolinha"></span>
+                Sistema online
+            </div>
+        </header>
+
+        <main class="conteudo">
+
+            <section class="boas-vindas">
+                <span class="etiqueta">ACESSO RÁPIDO</span>
+
+                <h2>
+                    Encontre o código do ifood<br>
+                    de qualquer morador
+                </h2>
+
+                <p>
+                    Pesquise pelo nome, apartamento ou bloco.
+                </p>
+            </section>
+
+            <section class="painel-busca">
+
+                <div class="titulo-painel">
+                    <div class="icone-busca">⌕</div>
+
+                    <div>
+                        <h3>Pesquisar morador</h3>
+                        <p>Digite uma informação para começar</p>
+                    </div>
+                </div>
+
+                <div class="campo-busca">
+                    <input
+                        type="text"
+                        id="campoBusca"
+                        placeholder="Nome, apartamento ou bloco..."
+                        autocomplete="off"
+                    >
+
+                    <button id="botaoBuscar">
+                        <span>⌕</span>
+                        Buscar
+                    </button>
+                </div>
+
+                <button id="botaoLimpar" class="botao-limpar">
+                    Limpar pesquisa
+                </button>
+
+            </section>
+
+            <div id="mensagem" class="mensagem"></div>
+
+            <section id="resultado" class="resultado"></section>
+
+            <section class="aviso">
+                <span class="icone-aviso">ⓘ</span>
+
+                <div>
+                    <strong>Uso interno</strong>
+                    <p>
+                        Utilize as informações somente para fins autorizados.
+                    </p>
+                </div>
+            </section>
+
+        </main>
+
+        <footer>
+            Sistema interno • Busca Fácil • <b>CifoodCode</b> • 2026
+        </footer>
+
+    </div>
+
+    <script src="javascript.js"></script>
+</body>
+</html>

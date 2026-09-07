@@ -12,7 +12,7 @@ const moradores = [
         nome: "Marcelo",
         apartamento: "011",
         bloco: "A",
-        codigo: "6532"
+        codigo: "6532 // Uber 6535"
     },
     {
         nome: "Manoela",

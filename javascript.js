@@ -226,10 +226,10 @@ const moradores = [
         codigo: "0667"
         },
 			    {
-        nome: "Ferando Costa",
+        nome: "Fernando Costa",
         apartamento: "73",
         bloco: "B",
-        codigo: "2360"
+        codigo: "2360 // keeta 7866"
         },
 			    {
         nome: "Paulo",

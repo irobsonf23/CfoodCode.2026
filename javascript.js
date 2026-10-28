@@ -30,7 +30,7 @@ const moradores = [
         nome: "Inês Isoldi",
         apartamento: "71",
         bloco: "A",
-        codigo: "1852"
+        codigo: "1822"
     },
 	    {
         nome: "Margarida",
